@@ -1,0 +1,62 @@
+[
+  {
+    "id": "toallas-cleanso",
+    "name": "Toallas húmedas Cleanso",
+    "description": "Paquete 80 + 10 unidades",
+    "price_clp": 1200,
+    "unit": "c/u",
+    "image": "assets/toallas-cleanso.jpeg",
+    "alt": "Paquetes azules de toallas húmedas Cleanso",
+    "whatsapp_url": "https://wa.me/56983658040?text=Hola%2C%20quiero%20consultar%20por%20las%20toallas%20h%C3%BAmedas%20Cleanso%20de%20%241.200."
+  },
+  {
+    "id": "traperos",
+    "name": "Traperos húmedos",
+    "description": "Aroma lavanda · 15 unidades",
+    "price_clp": 1500,
+    "unit": "c/u",
+    "image": "assets/traperos.jpeg",
+    "alt": "Paquetes rosados de traperos húmedos aroma lavanda",
+    "whatsapp_url": "https://wa.me/56983658040?text=Hola%2C%20quiero%20consultar%20por%20los%20traperos%20h%C3%BAmedos%20de%20%241.500."
+  },
+  {
+    "id": "desinfectantes",
+    "name": "Toallas desinfectantes",
+    "description": "Paquete Eco9",
+    "price_clp": 1200,
+    "unit": "c/u",
+    "image": "assets/desinfectantes.jpeg",
+    "alt": "Paquetes blancos de toallitas desinfectantes Eco9",
+    "whatsapp_url": "https://wa.me/56983658040?text=Hola%2C%20quiero%20consultar%20por%20las%20toallas%20desinfectantes%20de%20%241.200."
+  },
+  {
+    "id": "cocina",
+    "name": "Toallas de cocina",
+    "description": "Paquete 80 + 10 unidades",
+    "price_clp": 2500,
+    "unit": "c/u",
+    "image": "assets/cocina.jpeg",
+    "alt": "Paquetes verdes de toallitas de cocina Cleanso",
+    "whatsapp_url": "https://wa.me/56983658040?text=Hola%2C%20quiero%20consultar%20por%20las%20toallas%20de%20cocina%20de%20%242.500."
+  },
+  {
+    "id": "panitos",
+    "name": "Pañitos húmedos",
+    "description": "Variedad de colores",
+    "price_clp": 1000,
+    "unit": "c/u",
+    "image": "assets/panitos.jpeg",
+    "alt": "Pañitos húmedos en paquetes de distintos colores",
+    "whatsapp_url": "https://wa.me/56983658040?text=Hola%2C%20quiero%20consultar%20por%20los%20pa%C3%B1itos%20h%C3%BAmedos%20de%20%241.000."
+  },
+  {
+    "id": "mini",
+    "name": "Toallas húmedas pequeñas",
+    "description": "Foto: 8 paquetes",
+    "price_clp": 1000,
+    "unit": "",
+    "image": "assets/mini.jpeg",
+    "alt": "Paquetes pequeños verdes de toallas húmedas con ositos",
+    "whatsapp_url": "https://wa.me/56983658040?text=Hola%2C%20quiero%20consultar%20por%20las%20toallas%20h%C3%BAmedas%20peque%C3%B1as%20de%20la%20foto%20y%20confirmar%20el%20precio."
+  }
+]

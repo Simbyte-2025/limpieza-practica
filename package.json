@@ -1,0 +1,16 @@
+{
+  "name": "limpieza-practica",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing de catálogo de productos de limpieza — proyecto piloto Simbyte",
+  "type": "module",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "dev": "node scripts/serve.mjs public",
+    "preview": "node scripts/serve.mjs dist",
+    "test": "node scripts/validate.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source_commit": "d3d6465f29ae1fa1b828f2680136711a1064428f",
+  "source_version": 2,
+  "algorithm": "sha256",
+  "files": {
+    "assets/cocina.jpeg": "0b0c391e9d8118271aa1b48acf0fdbbdd48fc476d26ed510a4160f839664eb68",
+    "assets/desinfectantes.jpeg": "864136327071b49482c8cb6e718a8b3499182b5acabeed95f06f826be1cdde49",
+    "assets/mini.jpeg": "ece9309326de695d431aa4525e0d473ca888ca939f5ff0626f8c09fb8b4ef0cd",
+    "assets/panitos.jpeg": "2a65deca58c821da91b2a49d2b7cba092947a3e6d12480ad9450953af39438aa",
+    "assets/toallas-cleanso.jpeg": "8dacd208cafd4e7e9aab280f52b9fc2f15d732fb5f7f49639f4cfcf86078ce03",
+    "assets/traperos.jpeg": "f870f783eb5d33f061389eca95cb497f6a210ef7be649ac3a8fe971560a1da17",
+    "index.html": "6adac5974eacd5e29926b2b68f078c0b1127461c0f5b7975f86be0b615d4fa7c"
+  }
+}
